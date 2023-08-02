@@ -24,7 +24,6 @@ const AddTask = ({ newTask, setNewTask, handleSubmit }) => {
             onClick={() => inputRef.current.focus()}
         >
             <FaPlus />
-
         </button>
 
     </form>

@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "checked" : false,
+            "task": "Study MERN Stack"
+        },
+        {
+            "id": 2,
+            "checked" : false,
+            "task": "Study Django Python"
+        },
+        {
+            "id": 3,
+            "checked" : false,
+            "task": "Study React JS"
+        }
+    ]
+}
